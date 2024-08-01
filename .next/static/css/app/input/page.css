@@ -1,0 +1,163 @@
+/*!**************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[3]!./src/app/input/input.module.css ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************/
+.input_container__Lb_tg {
+  display: flex;
+  height: 100vh;
+  background-color: #f0f0f0;
+}
+
+.input_sidebar__ZyDkD {
+  width: 250px;
+  background-color: #fff;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  border-right: 1px solid #ddd;
+}
+
+.input_sidebarHeader__0ingS {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.input_header__wLud3 {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.input_shortcut__Wx5bx {
+  font-size: 12px;
+  color: #888;
+}
+
+.input_newPicButton__iS1H2 {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 50%;
+  width: 25px;
+  height: 25px;
+  cursor: pointer;
+}
+
+.input_sections__aGlrI {
+  flex-grow: 1;
+}
+
+.input_sectionHeader__FVU8k {
+  font-size: 14px;
+  color: #666;
+  margin: 10px 0;
+}
+
+.input_chatItem__fG31j {
+  padding: 8px;
+  cursor: pointer;
+  border-radius: 4px;
+  transition: background-color 0.3s;
+}
+
+.input_chatItem__fG31j:hover {
+  background-color: #e0e0e0;
+}
+
+.input_footer__DumPS {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.input_setting__POh1S, .input_help__RW0F5, .input_userName__koP1F {
+  padding: 8px;
+  cursor: pointer;
+  border-radius: 4px;
+  transition: background-color 0.3s;
+}
+
+.input_setting__POh1S:hover, .input_help__RW0F5:hover, .input_userName__koP1F:hover {
+  background-color: #e0e0e0;
+}
+
+.input_mainContent__JR2BD {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+
+.input_headerSection__tSwmh {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.input_printButton__l0OB8, .input_drawButton__abog_, .input_describeButton__2fXDC {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.input_canvas__e6UhV {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  grid-gap: 10px;
+  gap: 10px;
+  flex-grow: 1;
+  margin-bottom: 20px;
+  border: 1px solid #ddd;
+  padding: 10px;
+  background-color: #fff;
+}
+
+.input_gridItem__o1g2Y {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  font-size: 24px;
+  color: #aaa;
+}
+
+.input_instructions__GWpEw {
+  margin-bottom: 20px;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.input_instructions__GWpEw p {
+  margin: 5px 0;
+}
+
+.input_instructions__GWpEw ul {
+  margin: 5px 0;
+  padding-left: 20px;
+}
+
+.input_instructions__GWpEw li {
+  margin: 5px 0;
+}
+
+.input_actionButtons__C2k1K {
+  display: flex;
+  justify-content: space-between;
+}
+
+.input_describeButton__2fXDC {
+  background-color: #28a745;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
